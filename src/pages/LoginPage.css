@@ -1,0 +1,7 @@
+.login {
+    margin-bottom: 30px; /* Add margin at the bottom */
+    padding: 20px; /* Optional: Add padding for better layout */
+    max-width: 300px !important; /* Optional: Add a max width */
+    width:50%;
+    margin: 0 auto; /* Center the form horizontally */
+  }
