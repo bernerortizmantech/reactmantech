@@ -15,7 +15,6 @@ function RegisterPage() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('User Registered:', formData);
-    // You can add your form submission logic here (e.g., sending data to an API)
     alert('Registration successful!');
   };
 

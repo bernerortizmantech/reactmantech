@@ -1,9 +1,7 @@
 import React, { createContext, useState } from 'react';
 
-// Create the AuthContext
 export const AuthContext = createContext();
 
-// Create a provider component
 export function AuthProvider({ children }) {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 

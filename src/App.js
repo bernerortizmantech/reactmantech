@@ -7,13 +7,13 @@ import RegisterPage from './pages/RegisterPage';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import { AuthProvider } from './context/AuthContext';
-import './App.css'; // Import the custom CSS file
+import './App.css';
 
 function App() {
   return (
     <AuthProvider>
       <Router>
-        <div className="custom-container"> {/* Apply the custom class */}
+        <div className="custom-container">
           <Header />
           <div>
             <Routes>

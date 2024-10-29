@@ -22,7 +22,7 @@
   color: darkblue;
 }
 
-/* Add custom styles for the CTA login button */
+/* custom styles for the CTA login button */
 .btn-primary.login-btn {
   color: white !important;
 }

@@ -15,17 +15,17 @@
 }
 
 .custom-container {
-  padding-left: 40px;  /* Apply 40px left padding */
-  padding-right: 40px; /* Apply 40px right padding */
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 @media (min-width: 1200px) {
   .custom-container {
-    padding-left: 40px; /* Adjust if needed for larger screens */
+    padding-left: 40px;
     padding-right: 40px;
   }
 }
 
 body, p, h1, h2, h3, h4, h5, h6, a, span {
-  color: #1d315e !important; /* Apply dark blue color to all text */
+  color: #1d315e !important;
 }
